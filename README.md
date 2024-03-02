@@ -22,3 +22,8 @@ This plugin adds in items such as
   - Crafting:
     
   ![Crafting (3)](https://github.com/ItzSunBoi/WizardShit/assets/104782056/1d4bd26f-a561-4e0d-882d-21b834563b74)
+
+- Commands:
+  - /dumbshit <subcommand>
+  - Permissions: WizardShit.dumbshit
+  - Defaults to Players with OP
