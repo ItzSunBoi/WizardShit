@@ -1,0 +1,8 @@
+name: WizardShit
+version: '${version}'
+main: me.itzsunboi.wizardshit.WizardShit
+api-version: 1.20
+commands:
+  dumbshit:
+    description: Some Command to Give my stupid items
+    usage: /dumbshit <subcommand>
